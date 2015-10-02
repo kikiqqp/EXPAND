@@ -1,0 +1,1422 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+	File: config/Lang.xml
+	Date: Mon 10 Aug 2015 09:53:11 AM ACST
+	Author: Expand Strings File Exporter
+-->
+<strings>
+	<string id="0">
+		<phrase lang="English">Controller and Headphones are highly recommended</phrase>
+		<phrase lang="Japanese">コントローラー&amp;ヘッドフォン使用を強く推奨</phrase>
+		<phrase lang="Chinese-Simplified">建议使用游戏手柄和耳机</phrase>
+		<phrase lang="Chinese-Traditional">建議使用遊戲手把和耳機</phrase>
+		<phrase lang="French">L'utilisation d'un casque et d'une manette est recommandée</phrase>
+	</string>
+	<string id="1">
+		<phrase lang="English">Game Automatically Saves</phrase>
+		<phrase lang="Japanese">進行は自動的にセーブされます</phrase>
+		<phrase lang="Chinese-Simplified">游戏自动保存</phrase>
+		<phrase lang="Chinese-Traditional">遊戲自動儲存</phrase>
+		<phrase lang="French">Sauvegarde de la partie automatique</phrase>
+	</string>
+	<string id="2">
+		<phrase lang="English">Pause</phrase>
+		<phrase lang="Japanese">一時停止</phrase>
+		<phrase lang="Chinese-Simplified">暂停</phrase>
+		<phrase lang="Chinese-Traditional">暫停</phrase>
+		<phrase lang="French">Pause</phrase>
+	</string>
+	<string id="3">
+		<phrase lang="English">Return to Game</phrase>
+		<phrase lang="Japanese">ゲームに戻る</phrase>
+		<phrase lang="Chinese-Simplified">返回游戏</phrase>
+		<phrase lang="Chinese-Traditional">返回遊戲</phrase>
+		<phrase lang="French">Reprendre le jeu</phrase>
+	</string>
+	<string id="4">
+		<phrase lang="English">Restart from Last Checkpoint</phrase>
+		<phrase lang="Japanese">最後のチェックポイントから再スタート</phrase>
+		<phrase lang="Chinese-Simplified">从上一关重新开始</phrase>
+		<phrase lang="Chinese-Traditional">從上一關重新開始</phrase>
+		<phrase lang="French">Reprendre au dernier point de sauvegarde</phrase>
+	</string>
+	<string id="5">
+		<phrase lang="English">Main Menu</phrase>
+		<phrase lang="Japanese">メインメニュー</phrase>
+		<phrase lang="Chinese-Simplified">主页面</phrase>
+		<phrase lang="Chinese-Traditional">主選單</phrase>
+		<phrase lang="French">Menu principal</phrase>
+	</string>
+	<string id="6">
+		<phrase lang="English">Quit</phrase>
+		<phrase lang="Japanese">終了</phrase>
+		<phrase lang="Chinese-Simplified">退出</phrase>
+		<phrase lang="Chinese-Traditional">離開</phrase>
+		<phrase lang="French">Quitter</phrase>
+	</string>
+	<string id="7">
+		<phrase lang="English">Expand</phrase>
+		<phrase lang="Japanese">Expand</phrase>
+		<phrase lang="Chinese-Simplified">Expand</phrase>
+		<phrase lang="Chinese-Traditional">Expand</phrase>
+		<phrase lang="French">Expand</phrase>
+	</string>
+	<string id="8">
+		<phrase lang="English">Preview Build</phrase>
+		<phrase lang="Japanese">Preview Build</phrase>
+		<phrase lang="Chinese-Simplified">预览生成</phrase>
+		<phrase lang="Chinese-Traditional">預覽</phrase>
+		<phrase lang="French">Version provisoire</phrase>
+	</string>
+	<string id="9">
+		<phrase lang="English">New Game</phrase>
+		<phrase lang="Japanese">はじめから</phrase>
+		<phrase lang="Chinese-Simplified">新游戏</phrase>
+		<phrase lang="Chinese-Traditional">新遊戲</phrase>
+		<phrase lang="French">Nouvelle partie</phrase>
+	</string>
+	<string id="10">
+		<phrase lang="English">Continue</phrase>
+		<phrase lang="Japanese">続きから</phrase>
+		<phrase lang="Chinese-Simplified">继续</phrase>
+		<phrase lang="Chinese-Traditional">繼續</phrase>
+		<phrase lang="French">Continuer</phrase>
+	</string>
+	<string id="11">
+		<phrase lang="English">Options</phrase>
+		<phrase lang="Japanese">オプション</phrase>
+		<phrase lang="Chinese-Simplified">选项</phrase>
+		<phrase lang="Chinese-Traditional">選項</phrase>
+		<phrase lang="French">Options</phrase>
+	</string>
+	<string id="12">
+		<phrase lang="English">Start</phrase>
+		<phrase lang="Japanese">スタート</phrase>
+		<phrase lang="Chinese-Simplified">开始</phrase>
+		<phrase lang="Chinese-Traditional">開始</phrase>
+		<phrase lang="French">Démarrer</phrase>
+	</string>
+	<string id="13">
+		<phrase lang="English">&lt;</phrase>
+		<phrase lang="Japanese">&lt;</phrase>
+		<phrase lang="Chinese-Simplified">&lt;</phrase>
+		<phrase lang="Chinese-Traditional">&lt;</phrase>
+		<phrase lang="French">&lt;</phrase>
+	</string>
+	<string id="14">
+		<phrase lang="English">&gt;</phrase>
+		<phrase lang="Japanese">&gt;</phrase>
+		<phrase lang="Chinese-Simplified">&gt;</phrase>
+		<phrase lang="Chinese-Traditional">&gt;</phrase>
+		<phrase lang="French">&gt;</phrase>
+	</string>
+	<string id="15">
+		<phrase lang="English">Save 1</phrase>
+		<phrase lang="Japanese">スロット1</phrase>
+		<phrase lang="Chinese-Simplified">保存1</phrase>
+		<phrase lang="Chinese-Traditional">進度1</phrase>
+		<phrase lang="French">Sauvegarde 1</phrase>
+	</string>
+	<string id="16">
+		<phrase lang="English">Save 2</phrase>
+		<phrase lang="Japanese">スロット2</phrase>
+		<phrase lang="Chinese-Simplified">保存2</phrase>
+		<phrase lang="Chinese-Traditional">進度2</phrase>
+		<phrase lang="French">Sauvegarde 2</phrase>
+	</string>
+	<string id="17">
+		<phrase lang="English">Save 3</phrase>
+		<phrase lang="Japanese">スロット3</phrase>
+		<phrase lang="Chinese-Simplified">保存3</phrase>
+		<phrase lang="Chinese-Traditional">進度3</phrase>
+		<phrase lang="French">Sauvegarde 3</phrase>
+	</string>
+	<string id="18">
+		<phrase lang="English">- Empty -</phrase>
+		<phrase lang="Japanese">-未使用-</phrase>
+		<phrase lang="Chinese-Simplified">未使用</phrase>
+		<phrase lang="Chinese-Traditional">未使用</phrase>
+		<phrase lang="French">Vide</phrase>
+	</string>
+	<string id="19">
+		<phrase lang="English">Return</phrase>
+		<phrase lang="Japanese">戻る</phrase>
+		<phrase lang="Chinese-Simplified">返回</phrase>
+		<phrase lang="Chinese-Traditional">返回</phrase>
+		<phrase lang="French">Retour</phrase>
+	</string>
+	<string id="20">
+		<phrase lang="English">Opening</phrase>
+		<phrase lang="Japanese">始まり</phrase>
+		<phrase lang="Chinese-Simplified">开始</phrase>
+		<phrase lang="Chinese-Traditional">開始</phrase>
+		<phrase lang="French">Ouverture</phrase>
+	</string>
+	<string id="21">
+		<phrase lang="English">World</phrase>
+		<phrase lang="Japanese">世界</phrase>
+		<phrase lang="Chinese-Simplified">世界</phrase>
+		<phrase lang="Chinese-Traditional">世界</phrase>
+		<phrase lang="French">Monde</phrase>
+	</string>
+	<string id="22">
+		<phrase lang="English">Peril</phrase>
+		<phrase lang="Japanese">危険</phrase>
+		<phrase lang="Chinese-Simplified">危险</phrase>
+		<phrase lang="Chinese-Traditional">危險</phrase>
+		<phrase lang="French">Danger</phrase>
+	</string>
+	<string id="23">
+		<phrase lang="English">Reach</phrase>
+		<phrase lang="Japanese">到達</phrase>
+		<phrase lang="Chinese-Simplified">到达</phrase>
+		<phrase lang="Chinese-Traditional">抵達</phrase>
+		<phrase lang="French">Atteindre</phrase>
+	</string>
+	<string id="24">
+		<phrase lang="English">Elude</phrase>
+		<phrase lang="Japanese">回避</phrase>
+		<phrase lang="Chinese-Simplified">躲避</phrase>
+		<phrase lang="Chinese-Traditional">躲避</phrase>
+		<phrase lang="French">Résoudre</phrase>
+	</string>
+	<string id="25">
+		<phrase lang="English">Control</phrase>
+		<phrase lang="Japanese">制御</phrase>
+		<phrase lang="Chinese-Simplified">控制</phrase>
+		<phrase lang="Chinese-Traditional">控制</phrase>
+		<phrase lang="French">Contrôler</phrase>
+	</string>
+	<string id="26">
+		<phrase lang="English">Closure</phrase>
+		<phrase lang="Japanese">終わり</phrase>
+		<phrase lang="Chinese-Simplified">关闭</phrase>
+		<phrase lang="Chinese-Traditional">關閉</phrase>
+		<phrase lang="French">Fin</phrase>
+	</string>
+	<string id="27">
+		<phrase lang="English">0</phrase>
+		<phrase lang="Japanese">0</phrase>
+		<phrase lang="Chinese-Simplified">0</phrase>
+		<phrase lang="Chinese-Traditional">0</phrase>
+		<phrase lang="French">0</phrase>
+	</string>
+	<string id="28">
+		<phrase lang="English">1</phrase>
+		<phrase lang="Japanese">1</phrase>
+		<phrase lang="Chinese-Simplified">1</phrase>
+		<phrase lang="Chinese-Traditional">1</phrase>
+		<phrase lang="French">1</phrase>
+	</string>
+	<string id="29">
+		<phrase lang="English">2</phrase>
+		<phrase lang="Japanese">2</phrase>
+		<phrase lang="Chinese-Simplified">2</phrase>
+		<phrase lang="Chinese-Traditional">2</phrase>
+		<phrase lang="French">2</phrase>
+	</string>
+	<string id="30">
+		<phrase lang="English">3</phrase>
+		<phrase lang="Japanese">3</phrase>
+		<phrase lang="Chinese-Simplified">3</phrase>
+		<phrase lang="Chinese-Traditional">3</phrase>
+		<phrase lang="French">3</phrase>
+	</string>
+	<string id="31">
+		<phrase lang="English">4</phrase>
+		<phrase lang="Japanese">4</phrase>
+		<phrase lang="Chinese-Simplified">4</phrase>
+		<phrase lang="Chinese-Traditional">4</phrase>
+		<phrase lang="French">4</phrase>
+	</string>
+	<string id="32">
+		<phrase lang="English">5</phrase>
+		<phrase lang="Japanese">5</phrase>
+		<phrase lang="Chinese-Simplified">5</phrase>
+		<phrase lang="Chinese-Traditional">5</phrase>
+		<phrase lang="French">5</phrase>
+	</string>
+	<string id="33">
+		<phrase lang="English">6</phrase>
+		<phrase lang="Japanese">6</phrase>
+		<phrase lang="Chinese-Simplified">6</phrase>
+		<phrase lang="Chinese-Traditional">6</phrase>
+		<phrase lang="French">6</phrase>
+	</string>
+	<string id="34">
+		<phrase lang="English">7</phrase>
+		<phrase lang="Japanese">7</phrase>
+		<phrase lang="Chinese-Simplified">7</phrase>
+		<phrase lang="Chinese-Traditional">7</phrase>
+		<phrase lang="French">7</phrase>
+	</string>
+	<string id="35">
+		<phrase lang="English">8</phrase>
+		<phrase lang="Japanese">8</phrase>
+		<phrase lang="Chinese-Simplified">8</phrase>
+		<phrase lang="Chinese-Traditional">8</phrase>
+		<phrase lang="French">8</phrase>
+	</string>
+	<string id="36">
+		<phrase lang="English">9</phrase>
+		<phrase lang="Japanese">9</phrase>
+		<phrase lang="Chinese-Simplified">9</phrase>
+		<phrase lang="Chinese-Traditional">9</phrase>
+		<phrase lang="French">9</phrase>
+	</string>
+	<string id="37">
+		<phrase lang="English">10</phrase>
+		<phrase lang="Japanese">10</phrase>
+		<phrase lang="Chinese-Simplified">10</phrase>
+		<phrase lang="Chinese-Traditional">10</phrase>
+		<phrase lang="French">10</phrase>
+	</string>
+	<string id="38">
+		<phrase lang="English">11</phrase>
+		<phrase lang="Japanese">11</phrase>
+		<phrase lang="Chinese-Simplified">11</phrase>
+		<phrase lang="Chinese-Traditional">11</phrase>
+		<phrase lang="French">11</phrase>
+	</string>
+	<string id="39">
+		<phrase lang="English">12</phrase>
+		<phrase lang="Japanese">12</phrase>
+		<phrase lang="Chinese-Simplified">12</phrase>
+		<phrase lang="Chinese-Traditional">12</phrase>
+		<phrase lang="French">12</phrase>
+	</string>
+	<string id="40">
+		<phrase lang="English">13</phrase>
+		<phrase lang="Japanese">13</phrase>
+		<phrase lang="Chinese-Simplified">13</phrase>
+		<phrase lang="Chinese-Traditional">13</phrase>
+		<phrase lang="French">13</phrase>
+	</string>
+	<string id="41">
+		<phrase lang="English">14</phrase>
+		<phrase lang="Japanese">14</phrase>
+		<phrase lang="Chinese-Simplified">14</phrase>
+		<phrase lang="Chinese-Traditional">14</phrase>
+		<phrase lang="French">14</phrase>
+	</string>
+	<string id="42">
+		<phrase lang="English">15</phrase>
+		<phrase lang="Japanese">15</phrase>
+		<phrase lang="Chinese-Simplified">15</phrase>
+		<phrase lang="Chinese-Traditional">15</phrase>
+		<phrase lang="French">15</phrase>
+	</string>
+	<string id="43">
+		<phrase lang="English">16</phrase>
+		<phrase lang="Japanese">16</phrase>
+		<phrase lang="Chinese-Simplified">16</phrase>
+		<phrase lang="Chinese-Traditional">16</phrase>
+		<phrase lang="French">16</phrase>
+	</string>
+	<string id="44">
+		<phrase lang="English">17</phrase>
+		<phrase lang="Japanese">17</phrase>
+		<phrase lang="Chinese-Simplified">17</phrase>
+		<phrase lang="Chinese-Traditional">17</phrase>
+		<phrase lang="French">17</phrase>
+	</string>
+	<string id="45">
+		<phrase lang="English">18</phrase>
+		<phrase lang="Japanese">18</phrase>
+		<phrase lang="Chinese-Simplified">18</phrase>
+		<phrase lang="Chinese-Traditional">18</phrase>
+		<phrase lang="French">18</phrase>
+	</string>
+	<string id="46">
+		<phrase lang="English">19</phrase>
+		<phrase lang="Japanese">19</phrase>
+		<phrase lang="Chinese-Simplified">19</phrase>
+		<phrase lang="Chinese-Traditional">19</phrase>
+		<phrase lang="French">19</phrase>
+	</string>
+	<string id="47">
+		<phrase lang="English">20</phrase>
+		<phrase lang="Japanese">20</phrase>
+		<phrase lang="Chinese-Simplified">20</phrase>
+		<phrase lang="Chinese-Traditional">20</phrase>
+		<phrase lang="French">20</phrase>
+	</string>
+	<string id="48">
+		<phrase lang="English">Input</phrase>
+		<phrase lang="Japanese">入力</phrase>
+		<phrase lang="Chinese-Simplified">输入</phrase>
+		<phrase lang="Chinese-Traditional">輸入</phrase>
+		<phrase lang="French">Commandes</phrase>
+	</string>
+	<string id="49">
+		<phrase lang="English">Graphics</phrase>
+		<phrase lang="Japanese">映像</phrase>
+		<phrase lang="Chinese-Simplified">显卡</phrase>
+		<phrase lang="Chinese-Traditional">顯示</phrase>
+		<phrase lang="French">Paramètres graphiques</phrase>
+	</string>
+	<string id="50">
+		<phrase lang="English">Audio</phrase>
+		<phrase lang="Japanese">音声</phrase>
+		<phrase lang="Chinese-Simplified">音频</phrase>
+		<phrase lang="Chinese-Traditional">音效</phrase>
+		<phrase lang="French">Audio</phrase>
+	</string>
+	<string id="51">
+		<phrase lang="English">Language</phrase>
+		<phrase lang="Japanese">言語</phrase>
+		<phrase lang="Chinese-Simplified">语言</phrase>
+		<phrase lang="Chinese-Traditional">語言</phrase>
+		<phrase lang="French">Langue</phrase>
+	</string>
+	<string id="52">
+		<phrase lang="English">Keyboard</phrase>
+		<phrase lang="Japanese">キーボード</phrase>
+		<phrase lang="Chinese-Simplified">键盘</phrase>
+		<phrase lang="Chinese-Traditional">鍵盤</phrase>
+		<phrase lang="French">Clavier</phrase>
+	</string>
+	<string id="53">
+		<phrase lang="English">Controller</phrase>
+		<phrase lang="Japanese">コントローラー</phrase>
+		<phrase lang="Chinese-Simplified">手柄</phrase>
+		<phrase lang="Chinese-Traditional">手把/搖桿</phrase>
+		<phrase lang="French">Manette</phrase>
+	</string>
+	<string id="54">
+		<phrase lang="English">Changes Applied</phrase>
+		<phrase lang="Japanese">変更適用完了</phrase>
+		<phrase lang="Chinese-Simplified">更改应用</phrase>
+		<phrase lang="Chinese-Traditional">套用設定</phrase>
+		<phrase lang="French">Modifications enregistrées</phrase>
+	</string>
+	<string id="55">
+		<phrase lang="English">Anticlockwise</phrase>
+		<phrase lang="Japanese">反時計回り</phrase>
+		<phrase lang="Chinese-Simplified">逆时针</phrase>
+		<phrase lang="Chinese-Traditional">逆時針</phrase>
+		<phrase lang="French">Sens horaire</phrase>
+	</string>
+	<string id="56">
+		<phrase lang="English">Clockwise</phrase>
+		<phrase lang="Japanese">時計回り</phrase>
+		<phrase lang="Chinese-Simplified">顺时针</phrase>
+		<phrase lang="Chinese-Traditional">順時針</phrase>
+		<phrase lang="French">Sens anti-horaire</phrase>
+	</string>
+	<string id="57">
+		<phrase lang="English">In</phrase>
+		<phrase lang="Japanese">下</phrase>
+		<phrase lang="Chinese-Simplified">进</phrase>
+		<phrase lang="Chinese-Traditional">進入</phrase>
+		<phrase lang="French">Intérieur</phrase>
+	</string>
+	<string id="58">
+		<phrase lang="English">Out</phrase>
+		<phrase lang="Japanese">上</phrase>
+		<phrase lang="Chinese-Simplified">出</phrase>
+		<phrase lang="Chinese-Traditional">出來</phrase>
+		<phrase lang="French">Extérieur</phrase>
+	</string>
+	<string id="59">
+		<phrase lang="English">Select</phrase>
+		<phrase lang="Japanese">選択</phrase>
+		<phrase lang="Chinese-Simplified">选择</phrase>
+		<phrase lang="Chinese-Traditional">選擇</phrase>
+		<phrase lang="French">Sélectionner</phrase>
+	</string>
+	<string id="60">
+		<phrase lang="English">Revert to Default</phrase>
+		<phrase lang="Japanese">デフォルトに戻す</phrase>
+		<phrase lang="Chinese-Simplified">还原为默认</phrase>
+		<phrase lang="Chinese-Traditional">還原到預設</phrase>
+		<phrase lang="French">Paramètres par défault</phrase>
+	</string>
+	<string id="61">
+		<phrase lang="English">Enter Key:</phrase>
+		<phrase lang="Japanese">キーを入力:</phrase>
+		<phrase lang="Chinese-Simplified">回车键</phrase>
+		<phrase lang="Chinese-Traditional">輸入鍵</phrase>
+		<phrase lang="French">Touche sélectionnée :</phrase>
+	</string>
+	<string id="62">
+		<phrase lang="English">Enter to Confirm</phrase>
+		<phrase lang="Japanese">Enterで確定</phrase>
+		<phrase lang="Chinese-Simplified">回车确认</phrase>
+		<phrase lang="Chinese-Traditional">Enert 確認</phrase>
+		<phrase lang="French">Entrée pour valider</phrase>
+	</string>
+	<string id="63">
+		<phrase lang="English">Enter Button:</phrase>
+		<phrase lang="Japanese">ボタンを入力:</phrase>
+		<phrase lang="Chinese-Simplified">回车键</phrase>
+		<phrase lang="Chinese-Traditional">確認鍵</phrase>
+		<phrase lang="French">Bouton sélectionné :</phrase>
+	</string>
+	<string id="64">
+		<phrase lang="English">Move</phrase>
+		<phrase lang="Japanese">移動</phrase>
+		<phrase lang="Chinese-Simplified">移动</phrase>
+		<phrase lang="Chinese-Traditional">移動</phrase>
+		<phrase lang="French">Se déplacer</phrase>
+	</string>
+	<string id="65">
+		<phrase lang="English">Display</phrase>
+		<phrase lang="Japanese">表示</phrase>
+		<phrase lang="Chinese-Simplified">显示</phrase>
+		<phrase lang="Chinese-Traditional">顯示</phrase>
+		<phrase lang="French">Affichage</phrase>
+	</string>
+	<string id="66">
+		<phrase lang="English">Resolution</phrase>
+		<phrase lang="Japanese">解像度</phrase>
+		<phrase lang="Chinese-Simplified">解析度</phrase>
+		<phrase lang="Chinese-Traditional">解析度</phrase>
+		<phrase lang="French">Résolution</phrase>
+	</string>
+	<string id="67">
+		<phrase lang="English">VSync</phrase>
+		<phrase lang="Japanese">VSync</phrase>
+		<phrase lang="Chinese-Simplified">垂直同步</phrase>
+		<phrase lang="Chinese-Traditional">垂直同步</phrase>
+		<phrase lang="French">Synchronisation</phrase>
+	</string>
+	<string id="68">
+		<phrase lang="English">Full Screen</phrase>
+		<phrase lang="Japanese">全画面</phrase>
+		<phrase lang="Chinese-Simplified">全屏</phrase>
+		<phrase lang="Chinese-Traditional">全螢幕</phrase>
+		<phrase lang="French">Plein écran</phrase>
+	</string>
+	<string id="69">
+		<phrase lang="English">Antialiasing</phrase>
+		<phrase lang="Japanese">アンチエイリアス</phrase>
+		<phrase lang="Chinese-Simplified">抗锯齿</phrase>
+		<phrase lang="Chinese-Traditional">反鋸齒</phrase>
+		<phrase lang="French">Anticrénelage</phrase>
+	</string>
+	<string id="70">
+		<phrase lang="English">AA Quality</phrase>
+		<phrase lang="Japanese">AA品質   </phrase>
+		<phrase lang="Chinese-Simplified">抗锯齿画质</phrase>
+		<phrase lang="Chinese-Traditional">AA反鋸齒</phrase>
+		<phrase lang="French">Qualité de l'anticrénelage</phrase>
+	</string>
+	<string id="71">
+		<phrase lang="English">Restart Game to Apply</phrase>
+		<phrase lang="Japanese">ゲーム再起動で変更が適用されます</phrase>
+		<phrase lang="Chinese-Simplified">确认重启游戏</phrase>
+		<phrase lang="Chinese-Traditional">確認重新啟用遊戲套用設定</phrase>
+		<phrase lang="French">Redémarrer le jeu pour activer les modifications</phrase>
+	</string>
+	<string id="72">
+		<phrase lang="English">Sound Volume</phrase>
+		<phrase lang="Japanese">効果音量</phrase>
+		<phrase lang="Chinese-Simplified">音量</phrase>
+		<phrase lang="Chinese-Traditional">音效音量</phrase>
+		<phrase lang="French">Volume sonore</phrase>
+	</string>
+	<string id="73">
+		<phrase lang="English">Music Volume</phrase>
+		<phrase lang="Japanese">BGM音量</phrase>
+		<phrase lang="Chinese-Simplified">游戏音乐音量</phrase>
+		<phrase lang="Chinese-Traditional">音樂音量</phrase>
+		<phrase lang="French">Musique</phrase>
+	</string>
+	<string id="74">
+		<phrase lang="English">Confirm</phrase>
+		<phrase lang="Japanese">確定</phrase>
+		<phrase lang="Chinese-Simplified">确认</phrase>
+		<phrase lang="Chinese-Traditional">確認</phrase>
+		<phrase lang="French">Valider</phrase>
+	</string>
+	<string id="75">
+		<phrase lang="English">30</phrase>
+		<phrase lang="Japanese">30</phrase>
+		<phrase lang="Chinese-Simplified">30</phrase>
+		<phrase lang="Chinese-Traditional">30</phrase>
+		<phrase lang="French">30</phrase>
+	</string>
+	<string id="76">
+		<phrase lang="English">40</phrase>
+		<phrase lang="Japanese">40</phrase>
+		<phrase lang="Chinese-Simplified">40</phrase>
+		<phrase lang="Chinese-Traditional">40</phrase>
+		<phrase lang="French">40</phrase>
+	</string>
+	<string id="77">
+		<phrase lang="English">50</phrase>
+		<phrase lang="Japanese">50</phrase>
+		<phrase lang="Chinese-Simplified">50</phrase>
+		<phrase lang="Chinese-Traditional">50</phrase>
+		<phrase lang="French">50</phrase>
+	</string>
+	<string id="78">
+		<phrase lang="English">60</phrase>
+		<phrase lang="Japanese">60</phrase>
+		<phrase lang="Chinese-Simplified">60</phrase>
+		<phrase lang="Chinese-Traditional">60</phrase>
+		<phrase lang="French">60</phrase>
+	</string>
+	<string id="79">
+		<phrase lang="English">70</phrase>
+		<phrase lang="Japanese">70</phrase>
+		<phrase lang="Chinese-Simplified">70</phrase>
+		<phrase lang="Chinese-Traditional">70</phrase>
+		<phrase lang="French">70</phrase>
+	</string>
+	<string id="80">
+		<phrase lang="English">80</phrase>
+		<phrase lang="Japanese">80</phrase>
+		<phrase lang="Chinese-Simplified">80</phrase>
+		<phrase lang="Chinese-Traditional">80</phrase>
+		<phrase lang="French">80</phrase>
+	</string>
+	<string id="81">
+		<phrase lang="English">90</phrase>
+		<phrase lang="Japanese">90</phrase>
+		<phrase lang="Chinese-Simplified">90</phrase>
+		<phrase lang="Chinese-Traditional">90</phrase>
+		<phrase lang="French">90</phrase>
+	</string>
+	<string id="82">
+		<phrase lang="English">100</phrase>
+		<phrase lang="Japanese">100</phrase>
+		<phrase lang="Chinese-Simplified">100</phrase>
+		<phrase lang="Chinese-Traditional">100</phrase>
+		<phrase lang="French">100</phrase>
+	</string>
+	<string id="83">
+		<phrase lang="English">Error</phrase>
+		<phrase lang="Japanese">エラー</phrase>
+		<phrase lang="Chinese-Simplified">错误</phrase>
+		<phrase lang="Chinese-Traditional">錯誤</phrase>
+		<phrase lang="French">Erreur</phrase>
+	</string>
+	<string id="84">
+		<phrase lang="English">Enter Stick:</phrase>
+		<phrase lang="Japanese">スティック入力:</phrase>
+		<phrase lang="Chinese-Simplified">点摇杆</phrase>
+		<phrase lang="Chinese-Traditional">按手把按鍵</phrase>
+		<phrase lang="French">Bouton sélectionné :</phrase>
+	</string>
+	<string id="85">
+		<phrase lang="English">Left Stick</phrase>
+		<phrase lang="Japanese">Lスティック</phrase>
+		<phrase lang="Chinese-Simplified">左摇杆</phrase>
+		<phrase lang="Chinese-Traditional">左手把</phrase>
+		<phrase lang="French">Stick analogique gauche</phrase>
+	</string>
+	<string id="86">
+		<phrase lang="English">Right Stick</phrase>
+		<phrase lang="Japanese">Rスティック</phrase>
+		<phrase lang="Chinese-Simplified">右摇杆</phrase>
+		<phrase lang="Chinese-Traditional">右手把</phrase>
+		<phrase lang="French">Stick analogique droit</phrase>
+	</string>
+	<string id="87">
+		<phrase lang="English">Left Trigger</phrase>
+		<phrase lang="Japanese">LT</phrase>
+		<phrase lang="Chinese-Simplified">LT</phrase>
+		<phrase lang="Chinese-Traditional">手把L觸發</phrase>
+		<phrase lang="French">Gachette gauche</phrase>
+	</string>
+	<string id="88">
+		<phrase lang="English">Right Trigger</phrase>
+		<phrase lang="Japanese">RT</phrase>
+		<phrase lang="Chinese-Simplified">RT</phrase>
+		<phrase lang="Chinese-Traditional">手把R觸發</phrase>
+		<phrase lang="French">Gachette droite</phrase>
+	</string>
+	<string id="89">
+		<phrase lang="English">A</phrase>
+		<phrase lang="Japanese">A</phrase>
+		<phrase lang="Chinese-Simplified">A</phrase>
+		<phrase lang="Chinese-Traditional">A</phrase>
+		<phrase lang="French">A</phrase>
+	</string>
+	<string id="90">
+		<phrase lang="English">B</phrase>
+		<phrase lang="Japanese">B</phrase>
+		<phrase lang="Chinese-Simplified">B</phrase>
+		<phrase lang="Chinese-Traditional">B</phrase>
+		<phrase lang="French">B</phrase>
+	</string>
+	<string id="91">
+		<phrase lang="English">X</phrase>
+		<phrase lang="Japanese">X</phrase>
+		<phrase lang="Chinese-Simplified">X</phrase>
+		<phrase lang="Chinese-Traditional">X</phrase>
+		<phrase lang="French">X</phrase>
+	</string>
+	<string id="92">
+		<phrase lang="English">Y</phrase>
+		<phrase lang="Japanese">Y</phrase>
+		<phrase lang="Chinese-Simplified">Y</phrase>
+		<phrase lang="Chinese-Traditional">Y</phrase>
+		<phrase lang="French">Y</phrase>
+	</string>
+	<string id="93">
+		<phrase lang="English">L Bumper</phrase>
+		<phrase lang="Japanese">LB</phrase>
+		<phrase lang="Chinese-Simplified">LB</phrase>
+		<phrase lang="Chinese-Traditional">L鍵</phrase>
+		<phrase lang="French">Gachette haute gauche</phrase>
+	</string>
+	<string id="94">
+		<phrase lang="English">R Bumper</phrase>
+		<phrase lang="Japanese">RB</phrase>
+		<phrase lang="Chinese-Simplified">RB</phrase>
+		<phrase lang="Chinese-Traditional">R鍵</phrase>
+		<phrase lang="French">Gachette haute droite</phrase>
+	</string>
+	<string id="95">
+		<phrase lang="English">Back</phrase>
+		<phrase lang="Japanese">戻る</phrase>
+		<phrase lang="Chinese-Simplified">返回</phrase>
+		<phrase lang="Chinese-Traditional">返回</phrase>
+		<phrase lang="French">Back</phrase>
+	</string>
+	<string id="96">
+		<phrase lang="English">Start</phrase>
+		<phrase lang="Japanese">スタート</phrase>
+		<phrase lang="Chinese-Simplified">开始</phrase>
+		<phrase lang="Chinese-Traditional">開始</phrase>
+		<phrase lang="French">Start</phrase>
+	</string>
+	<string id="97">
+		<phrase lang="English">Home</phrase>
+		<phrase lang="Japanese">ホーム</phrase>
+		<phrase lang="Chinese-Simplified">菜单</phrase>
+		<phrase lang="Chinese-Traditional">選單</phrase>
+		<phrase lang="French">Home</phrase>
+	</string>
+	<string id="98">
+		<phrase lang="English">LS Button</phrase>
+		<phrase lang="Japanese">LSボタン</phrase>
+		<phrase lang="Chinese-Simplified">LS</phrase>
+		<phrase lang="Chinese-Traditional">LS鍵</phrase>
+		<phrase lang="French">Bouton stick gauche</phrase>
+	</string>
+	<string id="99">
+		<phrase lang="English">RS Button</phrase>
+		<phrase lang="Japanese">RSボタン</phrase>
+		<phrase lang="Chinese-Simplified">RS</phrase>
+		<phrase lang="Chinese-Traditional">RS鍵</phrase>
+		<phrase lang="French">Bouton stick droit</phrase>
+	</string>
+	<string id="100">
+		<phrase lang="English">DPad Left</phrase>
+		<phrase lang="Japanese">Dパッド左</phrase>
+		<phrase lang="Chinese-Simplified">向左</phrase>
+		<phrase lang="Chinese-Traditional">向左</phrase>
+		<phrase lang="French">BMD gauche</phrase>
+	</string>
+	<string id="101">
+		<phrase lang="English">DPad Right</phrase>
+		<phrase lang="Japanese">Dパッド右</phrase>
+		<phrase lang="Chinese-Simplified">向右</phrase>
+		<phrase lang="Chinese-Traditional">向右</phrase>
+		<phrase lang="French">BMD droite</phrase>
+	</string>
+	<string id="102">
+		<phrase lang="English">DPad Up</phrase>
+		<phrase lang="Japanese">Dパッド上</phrase>
+		<phrase lang="Chinese-Simplified">向上</phrase>
+		<phrase lang="Chinese-Traditional">向上</phrase>
+		<phrase lang="French">BMD haut</phrase>
+	</string>
+	<string id="103">
+		<phrase lang="English">DPad Down</phrase>
+		<phrase lang="Japanese">Dパッド下</phrase>
+		<phrase lang="Chinese-Simplified">向下</phrase>
+		<phrase lang="Chinese-Traditional">向下</phrase>
+		<phrase lang="French">BMD bas</phrase>
+	</string>
+	<string id="104">
+		<phrase lang="English">On</phrase>
+		<phrase lang="Japanese">オン</phrase>
+		<phrase lang="Chinese-Simplified">开</phrase>
+		<phrase lang="Chinese-Traditional">開</phrase>
+		<phrase lang="French">Activée</phrase>
+	</string>
+	<string id="105">
+		<phrase lang="English">Off</phrase>
+		<phrase lang="Japanese">オフ</phrase>
+		<phrase lang="Chinese-Simplified">关</phrase>
+		<phrase lang="Chinese-Traditional">關</phrase>
+		<phrase lang="French">Désactivée</phrase>
+	</string>
+	<string id="106">
+		<phrase lang="English">Low</phrase>
+		<phrase lang="Japanese">低</phrase>
+		<phrase lang="Chinese-Simplified">低</phrase>
+		<phrase lang="Chinese-Traditional">低</phrase>
+		<phrase lang="French">Faible</phrase>
+	</string>
+	<string id="107">
+		<phrase lang="English">Medium</phrase>
+		<phrase lang="Japanese">中</phrase>
+		<phrase lang="Chinese-Simplified">中</phrase>
+		<phrase lang="Chinese-Traditional">中</phrase>
+		<phrase lang="French">Moyenne</phrase>
+	</string>
+	<string id="108">
+		<phrase lang="English">High</phrase>
+		<phrase lang="Japanese">高</phrase>
+		<phrase lang="Chinese-Simplified">高</phrase>
+		<phrase lang="Chinese-Traditional">高</phrase>
+		<phrase lang="French">Elevée</phrase>
+	</string>
+	<string id="109">
+		<phrase lang="English">MSAA</phrase>
+		<phrase lang="Japanese">MSAA</phrase>
+		<phrase lang="Chinese-Simplified">MSAA 多重采样抗锯齿</phrase>
+		<phrase lang="Chinese-Traditional">MSAA</phrase>
+		<phrase lang="French">MSAA</phrase>
+	</string>
+	<string id="110">
+		<phrase lang="English">FXAA</phrase>
+		<phrase lang="Japanese">FXAA</phrase>
+		<phrase lang="Chinese-Simplified">FXAA 快速抗锯齿</phrase>
+		<phrase lang="Chinese-Traditional">FXAA</phrase>
+		<phrase lang="French">FXAA</phrase>
+	</string>
+	<string id="111">
+		<phrase lang="English">Down</phrase>
+		<phrase lang="Japanese">ダウンサンプリング</phrase>
+		<phrase lang="Chinese-Simplified">下</phrase>
+		<phrase lang="Chinese-Traditional">下</phrase>
+		<phrase lang="French">Down</phrase>
+	</string>
+	<string id="112">
+		<phrase lang="English">None</phrase>
+		<phrase lang="Japanese">なし</phrase>
+		<phrase lang="Chinese-Simplified">无</phrase>
+		<phrase lang="Chinese-Traditional">無</phrase>
+		<phrase lang="French">Aucun</phrase>
+	</string>
+	<string id="113">
+		<phrase lang="English">Changes Saved</phrase>
+		<phrase lang="Japanese">変更保存完了</phrase>
+		<phrase lang="Chinese-Simplified">保存变化</phrase>
+		<phrase lang="Chinese-Traditional">儲存設定</phrase>
+		<phrase lang="French">Modifications enregistrées</phrase>
+	</string>
+	<string id="114">
+		<phrase lang="English">Restart Game to Apply Changes</phrase>
+		<phrase lang="Japanese">ゲーム再起動で変更が適用されます</phrase>
+		<phrase lang="Chinese-Simplified">运用变化重新开始游戏</phrase>
+		<phrase lang="Chinese-Traditional">重新啟動遊戲以套用設定</phrase>
+		<phrase lang="French">Redémarrer le jeu pour activer les modifications</phrase>
+	</string>
+	<string id="115">
+		<phrase lang="English">Follow me</phrase>
+		<phrase lang="Japanese">ついてきて</phrase>
+		<phrase lang="Chinese-Simplified">跟着我</phrase>
+		<phrase lang="Chinese-Traditional">跟著我</phrase>
+		<phrase lang="French">Suis-moi</phrase>
+	</string>
+	<string id="116">
+		<phrase lang="English">Against the tide</phrase>
+		<phrase lang="Japanese">流れに、逆らって</phrase>
+		<phrase lang="Chinese-Simplified">逆势</phrase>
+		<phrase lang="Chinese-Traditional">逆流而上</phrase>
+		<phrase lang="French">A contre-courant</phrase>
+	</string>
+	<string id="117">
+		<phrase lang="English">Be aware</phrase>
+		<phrase lang="Japanese">気をつけて</phrase>
+		<phrase lang="Chinese-Simplified">请注意</phrase>
+		<phrase lang="Chinese-Traditional">請留意</phrase>
+		<phrase lang="French">Fais attention</phrase>
+	</string>
+	<string id="118">
+		<phrase lang="English">Patience is needed</phrase>
+		<phrase lang="Japanese">我慢も必要</phrase>
+		<phrase lang="Chinese-Simplified">需要耐心</phrase>
+		<phrase lang="Chinese-Traditional">需要些耐心</phrase>
+		<phrase lang="French">Sois patient</phrase>
+	</string>
+	<string id="119">
+		<phrase lang="English">Be close</phrase>
+		<phrase lang="Japanese">近くにいて</phrase>
+		<phrase lang="Chinese-Simplified">近一点</phrase>
+		<phrase lang="Chinese-Traditional">近一點</phrase>
+		<phrase lang="French">Ne t'éloigne pas</phrase>
+	</string>
+	<string id="120">
+		<phrase lang="English">And keep moving</phrase>
+		<phrase lang="Japanese">そして、止まらないで</phrase>
+		<phrase lang="Chinese-Simplified">继续移动</phrase>
+		<phrase lang="Chinese-Traditional">繼續移動</phrase>
+		<phrase lang="French">Et ne t'arrête pas</phrase>
+	</string>
+	<string id="121">
+		<phrase lang="English">Find the missing pieces</phrase>
+		<phrase lang="Japanese">失われたかけらを探して</phrase>
+		<phrase lang="Chinese-Simplified">寻找缺失的部分</phrase>
+		<phrase lang="Chinese-Traditional">尋找缺少的部份</phrase>
+		<phrase lang="French">Trouve les pièces manquantes</phrase>
+	</string>
+	<string id="122">
+		<phrase lang="English">Chris Johnson</phrase>
+		<phrase lang="Japanese">Chris Johnson</phrase>
+		<phrase lang="Chinese-Simplified">Chris Johnson</phrase>
+		<phrase lang="Chinese-Traditional">Chris Johnson</phrase>
+		<phrase lang="French">Chris Johnson</phrase>
+	</string>
+	<string id="123">
+		<phrase lang="English">and</phrase>
+		<phrase lang="Japanese">and</phrase>
+		<phrase lang="Chinese-Simplified">和</phrase>
+		<phrase lang="Chinese-Traditional">和</phrase>
+		<phrase lang="French">et</phrase>
+	</string>
+	<string id="124">
+		<phrase lang="English">Chris Larkin</phrase>
+		<phrase lang="Japanese">Chris Larkin</phrase>
+		<phrase lang="Chinese-Simplified">Chris Larkin</phrase>
+		<phrase lang="Chinese-Traditional">Chris Larkin</phrase>
+		<phrase lang="French">Chris Larkin</phrase>
+	</string>
+	<string id="125">
+		<phrase lang="English">Catherine Moore</phrase>
+		<phrase lang="Japanese">Catherine Moore</phrase>
+		<phrase lang="Chinese-Simplified">Catherine Moore</phrase>
+		<phrase lang="Chinese-Traditional">Catherine Moore</phrase>
+		<phrase lang="French">Catherine Moore</phrase>
+	</string>
+	<string id="126">
+		<phrase lang="English">Japanese Localization</phrase>
+		<phrase lang="Japanese">日本語ローカライゼーション</phrase>
+		<phrase lang="Chinese-Simplified">日语本地化</phrase>
+		<phrase lang="Chinese-Traditional">日語本地化</phrase>
+		<phrase lang="French">Localisation japonaise</phrase>
+	</string>
+	<string id="127">
+		<phrase lang="English">Kakehashi Games</phrase>
+		<phrase lang="Japanese">架け橋ゲームズ 矢澤竜太</phrase>
+		<phrase lang="Chinese-Simplified">Kakehashi Games</phrase>
+		<phrase lang="Chinese-Traditional">Kakehashi Games</phrase>
+		<phrase lang="French">Kakehashi Games</phrase>
+	</string>
+	<string id="128">
+		<phrase lang="English">Promotional Trailer</phrase>
+		<phrase lang="Japanese">プロモーショントレイラー制作</phrase>
+		<phrase lang="Chinese-Simplified">预告</phrase>
+		<phrase lang="Chinese-Traditional">預告</phrase>
+		<phrase lang="French">Bande-annonce promotionnelle</phrase>
+	</string>
+	<string id="129">
+		<phrase lang="English">Chris Kellett</phrase>
+		<phrase lang="Japanese">Chris Kellett</phrase>
+		<phrase lang="Chinese-Simplified">Chris Kellett</phrase>
+		<phrase lang="Chinese-Traditional">Chris Kellett</phrase>
+		<phrase lang="French">Chris Kellett</phrase>
+	</string>
+	<string id="130">
+		<phrase lang="English">Game Testers</phrase>
+		<phrase lang="Japanese">ゲームテスター</phrase>
+		<phrase lang="Chinese-Simplified">游戏测试</phrase>
+		<phrase lang="Chinese-Traditional">遊戲測試</phrase>
+		<phrase lang="French">Testeurs du jeu</phrase>
+	</string>
+	<string id="131">
+		<phrase lang="English">Andrada Tudor</phrase>
+		<phrase lang="Japanese">Andrada Tudor</phrase>
+		<phrase lang="Chinese-Simplified">Andrada Tudor</phrase>
+		<phrase lang="Chinese-Traditional">Andrada Tudor</phrase>
+		<phrase lang="French">Andrada Tudor</phrase>
+	</string>
+	<string id="132">
+		<phrase lang="English">Brad Barrett</phrase>
+		<phrase lang="Japanese">Brad Barrett</phrase>
+		<phrase lang="Chinese-Simplified">Brad Barrett</phrase>
+		<phrase lang="Chinese-Traditional">Brad Barrett</phrase>
+		<phrase lang="French">Brad Barrett</phrase>
+	</string>
+	<string id="133">
+		<phrase lang="English">Damon Pearce</phrase>
+		<phrase lang="Japanese">Damon Pearce</phrase>
+		<phrase lang="Chinese-Simplified">Damon Pearce</phrase>
+		<phrase lang="Chinese-Traditional">Damon Pearce</phrase>
+		<phrase lang="French">Damon Pearce</phrase>
+	</string>
+	<string id="134">
+		<phrase lang="English">Daniel Beaumont</phrase>
+		<phrase lang="Japanese">Daniel Beaumont</phrase>
+		<phrase lang="Chinese-Simplified">Daniel Beaumont</phrase>
+		<phrase lang="Chinese-Traditional">Daniel Beaumont</phrase>
+		<phrase lang="French">Daniel Beaumont</phrase>
+	</string>
+	<string id="135">
+		<phrase lang="English">Daniel Johnson</phrase>
+		<phrase lang="Japanese">Daniel Johnson</phrase>
+		<phrase lang="Chinese-Simplified">Daniel Johnson</phrase>
+		<phrase lang="Chinese-Traditional">Daniel Johnson</phrase>
+		<phrase lang="French">Daniel Johnson</phrase>
+	</string>
+	<string id="136">
+		<phrase lang="English">Elle Dunbar</phrase>
+		<phrase lang="Japanese">Elle Dunbar</phrase>
+		<phrase lang="Chinese-Simplified">Elle Dunbar</phrase>
+		<phrase lang="Chinese-Traditional">Elle Dunbar</phrase>
+		<phrase lang="French">Elle Dunbar</phrase>
+	</string>
+	<string id="137">
+		<phrase lang="English">Sam Crisp</phrase>
+		<phrase lang="Japanese">Sam Crisp</phrase>
+		<phrase lang="Chinese-Simplified">Sam Crisp</phrase>
+		<phrase lang="Chinese-Traditional">Sam Crisp</phrase>
+		<phrase lang="French">Sam Crisp</phrase>
+	</string>
+	<string id="138">
+		<phrase lang="English">Stuart Burfield</phrase>
+		<phrase lang="Japanese">Stuart Burfield</phrase>
+		<phrase lang="Chinese-Simplified">Stuart Burfield</phrase>
+		<phrase lang="Chinese-Traditional">Stuart Burfield</phrase>
+		<phrase lang="French">Stuart Burfield</phrase>
+	</string>
+	<string id="139">
+		<phrase lang="English">Ty Taylor</phrase>
+		<phrase lang="Japanese">Ty Taylor</phrase>
+		<phrase lang="Chinese-Simplified">Ty Taylor</phrase>
+		<phrase lang="Chinese-Traditional">Ty Taylor</phrase>
+		<phrase lang="French">Ty Taylor</phrase>
+	</string>
+	<string id="140">
+		<phrase lang="English">Special thanks to the events that showcased Expand</phrase>
+		<phrase lang="Japanese">Expand を展示させてくれたイベントに感謝を</phrase>
+		<phrase lang="Chinese-Simplified">特别感谢展示了Expand游戏的组织</phrase>
+		<phrase lang="Chinese-Traditional">特別感謝協助展示 Expand 的相關組織團體</phrase>
+		<phrase lang="French">Nous remercions particulièrement les événements qui ont présenté Expand</phrase>
+	</string>
+	<string id="141">
+		<phrase lang="English">Alternative Digital Arts Festival</phrase>
+		<phrase lang="Japanese">Alternative Digital Arts Festival</phrase>
+		<phrase lang="Chinese-Simplified">Alternative Digital Arts Festival</phrase>
+		<phrase lang="Chinese-Traditional">Alternative Digital Arts Festival</phrase>
+		<phrase lang="French">Alternative Digital Arts Festival</phrase>
+	</string>
+	<string id="142">
+		<phrase lang="English">Bit Bash</phrase>
+		<phrase lang="Japanese">Bit Bash</phrase>
+		<phrase lang="Chinese-Simplified">Bit Bash</phrase>
+		<phrase lang="Chinese-Traditional">Bit Bash</phrase>
+		<phrase lang="French">Bit Bash</phrase>
+	</string>
+	<string id="143">
+		<phrase lang="English">Freeplay</phrase>
+		<phrase lang="Japanese">Freeplay</phrase>
+		<phrase lang="Chinese-Simplified">Freeplay</phrase>
+		<phrase lang="Chinese-Traditional">Freeplay</phrase>
+		<phrase lang="French">Freeplay</phrase>
+	</string>
+	<string id="144">
+		<phrase lang="English">Indie Games Room</phrase>
+		<phrase lang="Japanese">Indie Games Room</phrase>
+		<phrase lang="Chinese-Simplified">Indie Games Room</phrase>
+		<phrase lang="Chinese-Traditional">Indie Games Room</phrase>
+		<phrase lang="French">Indie Games Room</phrase>
+	</string>
+	<string id="145">
+		<phrase lang="English">Ludicious</phrase>
+		<phrase lang="Japanese">Ludicious</phrase>
+		<phrase lang="Chinese-Simplified">Ludicious</phrase>
+		<phrase lang="Chinese-Traditional">Ludicious</phrase>
+		<phrase lang="French">Ludicious</phrase>
+	</string>
+	<string id="146">
+		<phrase lang="English">Media Indie Exchange</phrase>
+		<phrase lang="Japanese">Media Indie Exchange</phrase>
+		<phrase lang="Chinese-Simplified">Media Indie Exchange</phrase>
+		<phrase lang="Chinese-Traditional">Media Indie Exchange</phrase>
+		<phrase lang="French">Media Indie Exchange</phrase>
+	</string>
+	<string id="147">
+		<phrase lang="English">Out of Index</phrase>
+		<phrase lang="Japanese">Out of Index</phrase>
+		<phrase lang="Chinese-Simplified">Out of Index</phrase>
+		<phrase lang="Chinese-Traditional">Out of Index</phrase>
+		<phrase lang="French">Out of Index</phrase>
+	</string>
+	<string id="148">
+		<phrase lang="English">PAX Australia</phrase>
+		<phrase lang="Japanese">PAX Australia</phrase>
+		<phrase lang="Chinese-Simplified">PAX Australia</phrase>
+		<phrase lang="Chinese-Traditional">PAX Australia</phrase>
+		<phrase lang="French">PAX Australia</phrase>
+	</string>
+	<string id="149">
+		<phrase lang="English">Party2.exe</phrase>
+		<phrase lang="Japanese">Party2.exe</phrase>
+		<phrase lang="Chinese-Simplified">Party2.exe</phrase>
+		<phrase lang="Chinese-Traditional">Party2.exe</phrase>
+		<phrase lang="French">Party2.exe</phrase>
+	</string>
+	<string id="150">
+		<phrase lang="English">Sense of Wonder Night</phrase>
+		<phrase lang="Japanese">Sense of Wonder Night</phrase>
+		<phrase lang="Chinese-Simplified">Sense of Wonder Night</phrase>
+		<phrase lang="Chinese-Traditional">Sense of Wonder Night</phrase>
+		<phrase lang="French">Sense of Wonder Night</phrase>
+	</string>
+	<string id="151">
+		<phrase lang="English">Tokyo Indies</phrase>
+		<phrase lang="Japanese">Tokyo Indies</phrase>
+		<phrase lang="Chinese-Simplified">Tokyo Indies</phrase>
+		<phrase lang="Chinese-Traditional">Tokyo Indies</phrase>
+		<phrase lang="French">Tokyo Indies</phrase>
+	</string>
+	<string id="152">
+		<phrase lang="English">Special Thanks</phrase>
+		<phrase lang="Japanese">スペシャルサンクス</phrase>
+		<phrase lang="Chinese-Simplified">特别鸣谢</phrase>
+		<phrase lang="Chinese-Traditional">特別感謝</phrase>
+		<phrase lang="French">Nous remercions également</phrase>
+	</string>
+	<string id="153">
+		<phrase lang="English">Alexander Bruce</phrase>
+		<phrase lang="Japanese">Alexander Bruce</phrase>
+		<phrase lang="Chinese-Simplified">Alexander Bruce</phrase>
+		<phrase lang="Chinese-Traditional">Alexander Bruce</phrase>
+		<phrase lang="French">Alexander Bruce</phrase>
+	</string>
+	<string id="154">
+		<phrase lang="English">BlazingDragon</phrase>
+		<phrase lang="Japanese">BlazingDragon</phrase>
+		<phrase lang="Chinese-Simplified">BlazingDragon</phrase>
+		<phrase lang="Chinese-Traditional">BlazingDragon</phrase>
+		<phrase lang="French">BlazingDragon</phrase>
+	</string>
+	<string id="155">
+		<phrase lang="English">Craig Yeung</phrase>
+		<phrase lang="Japanese">Craig Yeung</phrase>
+		<phrase lang="Chinese-Simplified">Craig Yeung</phrase>
+		<phrase lang="Chinese-Traditional">Craig Yeung</phrase>
+		<phrase lang="French">Craig Yeung</phrase>
+	</string>
+	<string id="156">
+		<phrase lang="English">Hamish Lockwood</phrase>
+		<phrase lang="Japanese">Hamish Lockwood</phrase>
+		<phrase lang="Chinese-Simplified">Hamish Lockwood</phrase>
+		<phrase lang="Chinese-Traditional">Hamish Lockwood</phrase>
+		<phrase lang="French">Hamish Lockwood</phrase>
+	</string>
+	<string id="157">
+		<phrase lang="English">Jeff Van Dyck</phrase>
+		<phrase lang="Japanese">Jeff Van Dyck</phrase>
+		<phrase lang="Chinese-Simplified">Jeff Van Dyck</phrase>
+		<phrase lang="Chinese-Traditional">Jeff Van Dyck</phrase>
+		<phrase lang="French">Jeff Van Dyck</phrase>
+	</string>
+	<string id="158">
+		<phrase lang="English">Jessica Citizen</phrase>
+		<phrase lang="Japanese">Jessica Citizen</phrase>
+		<phrase lang="Chinese-Simplified">Jessica Citizen</phrase>
+		<phrase lang="Chinese-Traditional">Jessica Citizen</phrase>
+		<phrase lang="French">Jessica Citizen</phrase>
+	</string>
+	<string id="159">
+		<phrase lang="English">Ken Wong</phrase>
+		<phrase lang="Japanese">Ken Wong</phrase>
+		<phrase lang="Chinese-Simplified">Ken Wong</phrase>
+		<phrase lang="Chinese-Traditional">Ken Wong</phrase>
+		<phrase lang="French">Ken Wong</phrase>
+	</string>
+	<string id="160">
+		<phrase lang="English">Kingsley Foreman</phrase>
+		<phrase lang="Japanese">Kingsley Foreman</phrase>
+		<phrase lang="Chinese-Simplified">Kingsley Foreman</phrase>
+		<phrase lang="Chinese-Traditional">Kingsley Foreman</phrase>
+		<phrase lang="French">Kingsley Foreman</phrase>
+	</string>
+	<string id="161">
+		<phrase lang="English">Sanatana Mishra</phrase>
+		<phrase lang="Japanese">Sanatana Mishra</phrase>
+		<phrase lang="Chinese-Simplified">Sanatana Mishra</phrase>
+		<phrase lang="Chinese-Traditional">Sanatana Mishra</phrase>
+		<phrase lang="French">Sanatana Mishra</phrase>
+	</string>
+	<string id="162">
+		<phrase lang="English">And to all our friends and family</phrase>
+		<phrase lang="Japanese">僕らの友達と家族みんな</phrase>
+		<phrase lang="Chinese-Simplified">以及我们的家人和朋友们</phrase>
+		<phrase lang="Chinese-Traditional">以及我們的家人和朋友們</phrase>
+		<phrase lang="French">Ainsi que tous nos amis et familles</phrase>
+	</string>
+	<string id="163">
+		<phrase lang="English">English</phrase>
+		<phrase lang="Japanese">English</phrase>
+		<phrase lang="Chinese-Simplified">英语</phrase>
+		<phrase lang="Chinese-Traditional">英文</phrase>
+		<phrase lang="French">Anglais</phrase>
+	</string>
+	<string id="164">
+		<phrase lang="English">Japanese</phrase>
+		<phrase lang="Japanese">日本語</phrase>
+		<phrase lang="Chinese-Simplified">日语</phrase>
+		<phrase lang="Chinese-Traditional">日文</phrase>
+		<phrase lang="French">Japonais</phrase>
+	</string>
+	<string id="165">
+		<phrase lang="English">Simplified Chinese</phrase>
+		<phrase lang="Japanese">Simplified Chinese</phrase>
+		<phrase lang="Chinese-Simplified">简体中文</phrase>
+		<phrase lang="Chinese-Traditional">簡體中文</phrase>
+		<phrase lang="French">Chinois simplifié</phrase>
+	</string>
+	<string id="166">
+		<phrase lang="English">French</phrase>
+		<phrase lang="Japanese">French</phrase>
+		<phrase lang="Chinese-Simplified">法语</phrase>
+		<phrase lang="Chinese-Traditional">法語</phrase>
+		<phrase lang="French">Français</phrase>
+	</string>
+	<string id="167">
+		<phrase lang="English">Overwrite Slot 1 Save?</phrase>
+		<phrase lang="Japanese">スロット1を上書きしますか?</phrase>
+		<phrase lang="Chinese-Simplified">覆盖存档槽1保存</phrase>
+		<phrase lang="Chinese-Traditional">覆蓋存檔 1 紀錄？</phrase>
+		<phrase lang="French">Effacer la partie 1 sauvegardée ?</phrase>
+	</string>
+	<string id="168">
+		<phrase lang="English">Overwrite Slot 2 Save?</phrase>
+		<phrase lang="Japanese">スロット2を上書きしますか?</phrase>
+		<phrase lang="Chinese-Simplified">覆盖存档槽2保存</phrase>
+		<phrase lang="Chinese-Traditional">覆蓋存檔 2 紀錄？</phrase>
+		<phrase lang="French">Effacer la partie 2 sauvegardée ?</phrase>
+	</string>
+	<string id="169">
+		<phrase lang="English">Overwrite Slot 3 Save?</phrase>
+		<phrase lang="Japanese">スロット3を上書きしますか?</phrase>
+		<phrase lang="Chinese-Simplified">覆盖存档槽3保存</phrase>
+		<phrase lang="Chinese-Traditional">覆蓋存檔 3 紀錄？</phrase>
+		<phrase lang="French">Effacer la partie 3 sauvegardée ?</phrase>
+	</string>
+	<string id="170">
+		<phrase lang="English">Yes</phrase>
+		<phrase lang="Japanese">はい</phrase>
+		<phrase lang="Chinese-Simplified">是</phrase>
+		<phrase lang="Chinese-Traditional">是</phrase>
+		<phrase lang="French">Oui</phrase>
+	</string>
+	<string id="171">
+		<phrase lang="English">No</phrase>
+		<phrase lang="Japanese">いいえ</phrase>
+		<phrase lang="Chinese-Simplified">否</phrase>
+		<phrase lang="Chinese-Traditional">否</phrase>
+		<phrase lang="French">Non</phrase>
+	</string>
+	<string id="172">
+		<phrase lang="English">Press A to Confirm</phrase>
+		<phrase lang="Japanese">Aを押して確定</phrase>
+		<phrase lang="Chinese-Simplified">按A确认</phrase>
+		<phrase lang="Chinese-Traditional">按A確認</phrase>
+		<phrase lang="French">Appuyer sur A pour valider</phrase>
+	</string>
+	<string id="173">
+		<phrase lang="English">Release Button to Confirm</phrase>
+		<phrase lang="Japanese">ボタンを離すと確定</phrase>
+		<phrase lang="Chinese-Simplified">松开按键确认</phrase>
+		<phrase lang="Chinese-Traditional">放開按鍵確認</phrase>
+		<phrase lang="French">Relacher le bouton pour valider</phrase>
+	</string>
+	<string id="174">
+		<phrase lang="English">Ryuta Yazawa</phrase>
+		<phrase lang="Japanese">矢澤竜太</phrase>
+		<phrase lang="Chinese-Simplified">矢澤竜太</phrase>
+		<phrase lang="Chinese-Traditional">矢澤竜太</phrase>
+		<phrase lang="French">Ryuta Yazawa</phrase>
+	</string>
+	<string id="175">
+		<phrase lang="English">Chinese Localization</phrase>
+		<phrase lang="Japanese">Chinese Localization</phrase>
+		<phrase lang="Chinese-Simplified">中文本地化</phrase>
+		<phrase lang="Chinese-Traditional">中文化翻譯</phrase>
+		<phrase lang="French">Localisation chinoise</phrase>
+	</string>
+	<string id="176">
+		<phrase lang="English">French Localization</phrase>
+		<phrase lang="Japanese">French Localization</phrase>
+		<phrase lang="Chinese-Simplified">法语本地化</phrase>
+		<phrase lang="Chinese-Traditional">法語翻譯</phrase>
+		<phrase lang="French">Localisation française</phrase>
+	</string>
+	<string id="177">
+		<phrase lang="English">Laureene Leclaire</phrase>
+		<phrase lang="Japanese">Laureene Leclaire</phrase>
+		<phrase lang="Chinese-Simplified">Laureene Leclaire</phrase>
+		<phrase lang="Chinese-Traditional">Laureene Leclaire</phrase>
+		<phrase lang="French">Laureene Leclaire</phrase>
+	</string>
+	<string id="178">
+		<phrase lang="English">Strasbourg European Fantastic Film Festival</phrase>
+		<phrase lang="Japanese">Strasbourg European Fantastic Film Festival</phrase>
+		<phrase lang="Chinese-Simplified">Strasbourg European Fantastic Film Festival</phrase>
+		<phrase lang="Chinese-Traditional">Strasbourg European Fantastic Film Festival</phrase>
+		<phrase lang="French">Festival Européen du Film Fantastique de Strasbourg</phrase>
+	</string>
+	<string id="179">
+		<phrase lang="English">Zach Huntley</phrase>
+		<phrase lang="Japanese">Zach Huntley</phrase>
+		<phrase lang="Chinese-Simplified">Zach Huntley</phrase>
+		<phrase lang="Chinese-Traditional">Zach Huntley</phrase>
+		<phrase lang="French">Zach Huntley</phrase>
+	</string>
+	<string id="180">
+		<phrase lang="English">Korean Localization</phrase>
+		<phrase lang="Japanese">Korean Localization</phrase>
+		<phrase lang="Chinese-Simplified">韩语本地化</phrase>
+		<phrase lang="Chinese-Traditional">韓文翻譯</phrase>
+		<phrase lang="French">Localisation coréenne</phrase>
+	</string>
+	<string id="181">
+		<phrase lang="English">Cat's Library Coffee Crowd</phrase>
+		<phrase lang="Japanese">Cat's Library Coffee Crowd</phrase>
+		<phrase lang="Chinese-Simplified">Cat's Library Coffee Crowd</phrase>
+		<phrase lang="Chinese-Traditional">Cat's Library Coffee Crowd</phrase>
+		<phrase lang="French">Cat's Library Coffee Crowd</phrase>
+	</string>
+	<string id="182">
+		<phrase lang="English">Traditional Chinese</phrase>
+		<phrase lang="Japanese">Traditional Chinese</phrase>
+		<phrase lang="Chinese-Simplified">繁体中文</phrase>
+		<phrase lang="Chinese-Traditional">繁體中文</phrase>
+		<phrase lang="French">Chinois traditionnel</phrase>
+	</string>
+	<string id="183">
+		<phrase lang="English">Korean</phrase>
+		<phrase lang="Japanese">Korean</phrase>
+		<phrase lang="Chinese-Simplified">韩语</phrase>
+		<phrase lang="Chinese-Traditional">韓文</phrase>
+		<phrase lang="French">Coréen</phrase>
+	</string>
+	<string id="184">
+		<phrase lang="English"> </phrase>
+		<phrase lang="Japanese">イクスパンド</phrase>
+		<phrase lang="Chinese-Simplified"> </phrase>
+		<phrase lang="Chinese-Traditional"> </phrase>
+		<phrase lang="French"> </phrase>
+	</string>
+	<string id="185">
+		<phrase lang="English">Merk Choi</phrase>
+		<phrase lang="Japanese">Merk Choi</phrase>
+		<phrase lang="Chinese-Simplified">Merk Choi</phrase>
+		<phrase lang="Chinese-Traditional">Merk Choi</phrase>
+		<phrase lang="French">Merk Choi</phrase>
+	</string>
+	<string id="186">
+		<phrase lang="English">Bernard Evans</phrase>
+		<phrase lang="Japanese">Bernard Evans</phrase>
+		<phrase lang="Chinese-Simplified">Bernard Evans</phrase>
+		<phrase lang="Chinese-Traditional">Bernard Evans</phrase>
+		<phrase lang="French">Bernard Evans</phrase>
+	</string>
+	<string id="187">
+		<phrase lang="English">John Oestmann</phrase>
+		<phrase lang="Japanese">John Oestmann</phrase>
+		<phrase lang="Chinese-Simplified">John Oestmann</phrase>
+		<phrase lang="Chinese-Traditional">John Oestmann</phrase>
+		<phrase lang="French">John Oestmann</phrase>
+	</string>
+	<string id="188">
+		<phrase lang="English">Matt Williams</phrase>
+		<phrase lang="Japanese">Matt Williams</phrase>
+		<phrase lang="Chinese-Simplified">Matt Williams</phrase>
+		<phrase lang="Chinese-Traditional">Matt Williams</phrase>
+		<phrase lang="French">Matt Williams</phrase>
+	</string>
+	<string id="189">
+		<phrase lang="English">Curve Digital</phrase>
+		<phrase lang="Japanese">Curve Digital</phrase>
+		<phrase lang="Chinese-Simplified">Curve Digital</phrase>
+		<phrase lang="Chinese-Traditional">Curve Digital</phrase>
+		<phrase lang="French">Curve Digital</phrase>
+	</string>
+	<string id="190">
+		<phrase lang="English">CiCi Shi</phrase>
+		<phrase lang="Japanese">CiCi Shi</phrase>
+		<phrase lang="Chinese-Simplified">施晓晨</phrase>
+		<phrase lang="Chinese-Traditional">施曉晨</phrase>
+		<phrase lang="French">CiCi Shi</phrase>
+	</string>
+	<string id="191">
+		<phrase lang="English">Matt Trobbiani</phrase>
+		<phrase lang="Japanese">Matt Trobbiani</phrase>
+		<phrase lang="Chinese-Simplified">Matt Trobbiani</phrase>
+		<phrase lang="Chinese-Traditional">Matt Trobbiani</phrase>
+		<phrase lang="French">Matt Trobbiani</phrase>
+	</string>
+	<string id="192">
+		<phrase lang="English"></phrase>
+		<phrase lang="Japanese"></phrase>
+		<phrase lang="Chinese-Simplified"></phrase>
+		<phrase lang="Chinese-Traditional"></phrase>
+		<phrase lang="French">Verticale</phrase>
+	</string>
+	<string id="193">
+		<phrase lang="English">Adrian Myers</phrase>
+		<phrase lang="Japanese">Adrian Myers</phrase>
+		<phrase lang="Chinese-Simplified">Adrian Myers</phrase>
+		<phrase lang="Chinese-Traditional">Adrian Myers</phrase>
+		<phrase lang="French">Adrian Myers</phrase>
+	</string>
+	<string id="194">
+		<phrase lang="English">Dylan Sale</phrase>
+		<phrase lang="Japanese">Dylan Sale</phrase>
+		<phrase lang="Chinese-Simplified">Dylan Sale</phrase>
+		<phrase lang="Chinese-Traditional">Dylan Sale</phrase>
+		<phrase lang="French">Dylan Sale</phrase>
+	</string>
+	<string id="195">
+		<phrase lang="English">Harrison Smith</phrase>
+		<phrase lang="Japanese">Harrison Smith</phrase>
+		<phrase lang="Chinese-Simplified">Harrison Smith</phrase>
+		<phrase lang="Chinese-Traditional">Harrison Smith</phrase>
+		<phrase lang="French">Harrison Smith</phrase>
+	</string>
+	<string id="196">
+		<phrase lang="English">Johnson Lin</phrase>
+		<phrase lang="Japanese">Johnson Lin</phrase>
+		<phrase lang="Chinese-Simplified">Johnson Lin</phrase>
+		<phrase lang="Chinese-Traditional">Johnson Lin</phrase>
+		<phrase lang="French">Johnson Lin</phrase>
+	</string>
+	<string id="197">
+		<phrase lang="English">Justin Ng</phrase>
+		<phrase lang="Japanese">Justin Ng</phrase>
+		<phrase lang="Chinese-Simplified">Justin Ng</phrase>
+		<phrase lang="Chinese-Traditional">Justin Ng</phrase>
+		<phrase lang="French">Justin Ng</phrase>
+	</string>
+	<string id="198">
+		<phrase lang="English">Yotam Wilson</phrase>
+		<phrase lang="Japanese">Yotam Wilson</phrase>
+		<phrase lang="Chinese-Simplified">Yotam Wilson</phrase>
+		<phrase lang="Chinese-Traditional">Yotam Wilson</phrase>
+		<phrase lang="French">Yotam Wilson</phrase>
+	</string>
+	<string id="199">
+		<phrase lang="English">Damon Reece</phrase>
+		<phrase lang="Japanese">Damon Reece</phrase>
+		<phrase lang="Chinese-Simplified">Damon Reece</phrase>
+		<phrase lang="Chinese-Traditional">Damon Reece</phrase>
+		<phrase lang="French">Damon Reece</phrase>
+	</string>
+	<string id="200">
+		<phrase lang="English">Chris Keesmaat</phrase>
+		<phrase lang="Japanese">Chris Keesmaat</phrase>
+		<phrase lang="Chinese-Simplified">Chris Keesmaat</phrase>
+		<phrase lang="Chinese-Traditional">Chris Keesmaat</phrase>
+		<phrase lang="French">Chris Keesmaat</phrase>
+	</string>
+	<string id="201">
+		<phrase lang="English">FMOD by Firelight Technologies</phrase>
+		<phrase lang="Japanese">FMOD by Firelight Technologies</phrase>
+		<phrase lang="Chinese-Simplified">FMOD by Firelight Technologies</phrase>
+		<phrase lang="Chinese-Traditional">FMOD by Firelight Technologies</phrase>
+		<phrase lang="French">FMOD by Firelight Technologies</phrase>
+	</string>
+</strings> 
